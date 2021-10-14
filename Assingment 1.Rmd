@@ -19,7 +19,7 @@ y = c(3,4,5)
 ```
 
 ```{r}
-write.csv(data, here("./data/test.csv"))
+write.csv(data, here("./data/student-data.csv"))
 ```
 
 
