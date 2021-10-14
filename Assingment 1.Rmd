@@ -1,0 +1,24 @@
+---
+title: "Assingment 1"
+author: "Gabrielle Languedoc"
+date: "14/10/2021"
+output: pdf_document
+---
+Gabrielle Languedoc
+__University of Victoria__
+_Lavender_
+
+```{r}
+x = c(1,2,3)
+y = c(3,4,5)
+```
+
+```{r}
+write.csv(data, "student-data.csv")
+```
+
+```{r}
+install.packages("here")
+library(here)
+```
+
